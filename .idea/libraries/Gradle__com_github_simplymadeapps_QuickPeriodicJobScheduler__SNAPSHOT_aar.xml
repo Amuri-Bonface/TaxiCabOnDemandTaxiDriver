@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.simplymadeapps:QuickPeriodicJobScheduler:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97fb7059d9e689adb37ef8c57299dbea/jetified-QuickPeriodicJobScheduler--SNAPSHOT/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97fb7059d9e689adb37ef8c57299dbea/jetified-QuickPeriodicJobScheduler--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97fb7059d9e689adb37ef8c57299dbea/jetified-QuickPeriodicJobScheduler--SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
